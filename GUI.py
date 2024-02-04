@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
 # assuming your database interaction functions are in a file named database.py
-import database
+import Database
 
 
 class LibraryManagementSystem:
